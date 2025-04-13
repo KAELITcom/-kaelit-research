@@ -14,3 +14,32 @@ A quantum-secure, AI-powered, zk-scalable blockchain — designed alone, in Kore
 💎 Sponsor: [github.com/sponsors/KAELITcom](https://github.com/sponsors/KAELITcom)  
 🌐 Website: [kaelit.com](https://kaelit.com)  
 💬 Join us: [discord.gg/6z4YjqVAyb](https://discord.gg/6z4YjqVAyb)
+
+
+# KAELIT Research – High-Level Architecture Overview
+
+This repository contains a conceptual overview of the KAELIT blockchain project.
+
+> ⚠️ WARNING  
+> All content in this repository is protected intellectual property, developed through deep research conducted between 2022 and 2025 by David Ahn, founder of the KAELIT Project.  
+>  
+> The materials are **intentionally limited to a high-level overview**. Core implementations, including Post-Quantum Cryptography (PQC) modules, zk-Rollup circuits, DAG-based sharding architecture, and AI optimization logic are **not publicly disclosed** and remain under strict internal control.  
+>  
+> Unauthorized use, reproduction, redistribution, or misrepresentation of this content will be considered **intentional IP infringement** and may result in legal consequences, including international legal action.
+
+## Intellectual Ownership
+
+- Original Creator: David Ahn (Founder, KAELIT Project)  
+- Research Period: 2022–2025  
+- GitHub Commit Timestamp: April 13, 2025 (UTC)  
+- Digital Authorship Proof: Stored and verifiable on-chain and off-chain  
+
+## For External Reviewers & Partners
+
+If you are a development firm, investor, or technology reviewer interested in the KAELIT architecture,  
+please visit the official website [kaelit.com](https://kaelit.com) or request documentation access via secured channels under NDA.
+
+## Copyright
+
+© 2025 KAELIT Project – All rights reserved.  
+This content is protected under international copyright law and blockchain timestamping.
