@@ -20,6 +20,14 @@ A quantum-secure, AI-powered, zk-scalable blockchain — designed alone, in Kore
 
 This repository contains a conceptual overview of the KAELIT blockchain project.
 
+## KAELIT MVP Architecture (Public Overview)
+
+This diagram illustrates the high-level architecture of the KAELIT blockchain system,  
+integrating Post-Quantum Cryptography (PQC), zk-Rollups, DAG-based sharding, and Federated AI optimization.
+
+![KAELIT Architecture](images/kaelit_architecture_diagram.png)
+
+
 > ⚠️ WARNING  
 > All content in this repository is protected intellectual property, developed through deep research conducted between 2022 and 2025 by David Ahn, founder of the KAELIT Project.  
 >  
