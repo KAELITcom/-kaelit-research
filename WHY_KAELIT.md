@@ -35,21 +35,8 @@ We publicly share the architecture, roadmap, and philosophical foundation — bu
 
 ---
 
-## 🌍 Why We Need Support
-
-This project is not funded by a DAO, a token sale, or investors.  
-It is powered solely by research and conviction.
-
-Your sponsorship — even $5/month — fuels the continued development of one of the most ambitious blockchain designs ever attempted by an independent founder.
-
-You’re not investing in a coin.  
-You’re believing in an idea.
-
----
-
 ## 🙌 Join the Movement
 
-📎 Sponsor now → [github.com/sponsors/KAELITcom](https://github.com/sponsors/KAELITcom)  
 🔗 Website → [kaelit.com](https://kaelit.com)  
 💬 Discord → [discord.gg/6z4YjqVAyb](https://discord.gg/6z4YjqVAyb)
 
