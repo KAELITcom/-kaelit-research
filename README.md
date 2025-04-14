@@ -1,3 +1,8 @@
+> ⚠️ WARNING: This is the **only official GitHub repository of KAELIT**.  
+> KAELIT is not affiliated with any tokens, coins, or blockchain forks claiming similar names.  
+> Please verify through https://kaelit.com and our verified social channels before trusting any offers.
+
+
 # KAELIT — The Korean Bitcoin
 
 A quantum-secure, AI-powered, zk-scalable blockchain — designed independently in Korea.
