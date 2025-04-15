@@ -1,6 +1,20 @@
+# KAELIT – Quantum-Secure, AI-Optimized Blockchain
+
 > ⚠️ WARNING: This is the **only official GitHub repository of KAELIT**.  
 > KAELIT is not affiliated with any tokens, coins, or blockchain forks claiming similar names.  
 > Please verify through https://kaelit.com and our verified social channels before trusting any offers.
+
+---
+🚨 Legal Notice – Patent Protected
+
+This architecture is protected under Korean patent application filed on **2025.04.15**,  
+and an international PCT application has been officially filed.  
+Any unauthorized use, reproduction, or derivative work based on this system  
+may constitute patent infringement and will be subject to legal enforcement under international intellectual property law.
+
+© KAELIT. All rights reserved.
+---
+
 >
 > [📌 View the Initial Public Architecture Snapshot (v0.1)](https://github.com/kaelitcom/kaelit-research/releases/tag/v0.1)
 
