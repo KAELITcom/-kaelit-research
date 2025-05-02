@@ -52,29 +52,33 @@ combining Post-Quantum Cryptography (PQC), zk-Rollups, DAG-based sharding, and F
 
 ## ⚠️ Legal & Intellectual Property Notice
 
-This repository contains patent-pending modular cryptographic and AI-coordinated architecture, developed via custom research between 2022–2025.
+This repository contains **patent-pending modular cryptographic and AI-coordinated architecture**,  
+developed via **custom research conducted independently between 2022–2025**.
 
-All implementations and inner optimization logic remain strictly confidential.
-Any unauthorized use, disclosure, or misrepresentation of the contents herein will be considered intellectual property infringement.
+All implementations and core optimization logic are strictly confidential.  
+Any unauthorized use, redistribution, reproduction, or misrepresentation of this content  
+will be treated as **intentional intellectual property infringement**  
+and may lead to international legal action.
 
 This repository is intentionally limited to a **high-level conceptual preview**.  
-The following core components are **not publicly disclosed** and remain under strict internal control:
+The following core components are **not publicly disclosed** and remain under strict internal protection:
 
 - Post-Quantum Cryptography (PQC) modules  
 - zk-Rollup circuit implementations  
 - DAG-based sharding architecture  
-- AI optimization logic (Federated, LLM-based)
-
-Any unauthorized use, reproduction, redistribution, or misrepresentation of this content will be considered **intentional IP infringement** and may result in international legal action.
+- AI optimization logic (confidential, policy-coordinated)
 
 ---
 
-## Intellectual Ownership
+## 🧠 Intellectual Ownership
 
-- Original Creator: **David Ahn** (Founder, KAELIT Project)  
-- Research Period: **2022–2025**  
-- GitHub Commit Timestamp: **April 13, 2025 (UTC)**  
-- Authorship Proof: Stored and verifiable both on-chain and off-chain
+- **Research Group:** KAELIT Core Research Team  
+- **Research Period:** 2022–2025  
+- **On-chain Authorship Proof:** Stored and verifiable via blockchain timestamping  
+- **Commit Hash Registry:** Off-chain versioning committed on April 13, 2025 (UTC)
+
+All contributions and proprietary flows are protected under national and international patent law.
+
 
 ---
 
