@@ -52,7 +52,10 @@ combining Post-Quantum Cryptography (PQC), zk-Rollups, DAG-based sharding, and F
 
 ## ⚠️ Legal & Intellectual Property Notice
 
-All content in this repository is protected intellectual property, developed through deep research between 2022 and 2025 by **David Ahn**, founder of the KAELIT Project.
+This repository contains patent-pending modular cryptographic and AI-coordinated architecture, developed via custom research between 2022–2025.
+
+All implementations and inner optimization logic remain strictly confidential.
+Any unauthorized use, disclosure, or misrepresentation of the contents herein will be considered intellectual property infringement.
 
 This repository is intentionally limited to a **high-level conceptual preview**.  
 The following core components are **not publicly disclosed** and remain under strict internal control:
