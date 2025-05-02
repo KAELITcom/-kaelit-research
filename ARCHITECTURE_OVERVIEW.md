@@ -1,59 +1,55 @@
-# KAELIT High-Level Architecture Overview
+# KAELIT – Modular Blockchain Infrastructure (2022–2025)
 
-> *This document outlines the modular structure and core components of KAELIT's blockchain design. No proprietary source code or implementation logic is included.*
-
----
-
-## 🧠 Design Philosophy
-
-KAELIT is built around three uncompromising principles:
-
-- **Quantum Resistance**: Future-proof security using CRYSTALS-Kyber and Dilithium
-- **AI Optimization**: Modular AI for real-time gas tuning, anomaly detection, and performance prediction
-- **Scalability by Design**: A hybrid Layer-1/Layer-2 model using zk-Rollups, DAG-based sharding, and stateless validation
+**KAELIT** is a quantum-secure, AI-coordinated blockchain architecture  
+developed independently in Korea between 2022 and 2025.  
+This repository presents a conceptual snapshot of the system’s high-level modular layout.  
+No source code, algorithmic structures, or implementation logic are disclosed.
 
 ---
 
-## 🧩 Core Components
+## 🧠 Design Overview
 
-### 🔐 Cryptographic Layer
-- **PQC Integration**: Hybrid encryption using Kyber (key exchange) + Dilithium (signatures)
-- **Fallback ECC**: Optional support for ECDSA to maintain wallet compatibility
+KAELIT is built on three core principles:
 
-### ⚙️ Consensus Layer
-- **DAG-Based Sharded Ledger**: Parallelizable consensus structure to eliminate bottlenecks
-- **BFT Finality Engine**: Byzantine Fault Tolerance on shard leaders
-- **zk-Rollup Anchoring**: Validity proofs anchor each epoch snapshot to the main chain
+- **Quantum Resistance:** Future-ready cryptography (PQC)
+- **AI Coordination:** Real-time optimization for performance and security
+- **Scalability by Design:** zk-Rollups, DAG-based sharding, and stateless execution
 
-### 🧠 AI Optimization Layer
-- **Gas Prediction Module**: LSTM or Transformer models to dynamically tune gas per transaction type
-- **Anomaly Detection Engine**: Isolation Forest & Graph-based heuristics for runtime abuse monitoring
-- **Adaptive Parameter Engine**: Deep RL tuning of validator performance, block size, and epoch cycles
+---
 
-### 🧱 Execution Layer
-- **Rust-Based Modular Runtime**: Built with Tokio & mpsc for async performance
-- **WASM Smart Contracts**: CosmWasm + Ink! compatible, with embedded AI agent hooks
-- **Stateless Validation**: Enabling clients to validate without full history replay
+## 🧩 Modular Architecture Layers
 
-### 🌐 Interoperability Layer
-- **IBC Protocol Support**: Inter-blockchain communication channels
-- **Cross-VM Support**: Bridge modules for EVM, WASM, and Move-based chains
-- **Meta Layer Hooks**: Dynamic fee market adaptation based on external L2 oracles
+- **Cryptographic Layer** – Hybrid post-quantum encryption (Kyber + Dilithium)  
+- **Consensus Layer** – DAG-structured parallel ledger with epoch anchoring  
+- **AI Optimization Layer** – Adaptive system behavior (model architecture not disclosed)  
+- **Execution Layer** – Rust-based async runtime, WASM smart contracts  
+- **Interoperability Layer** – IBC, cross-VM bridge, and dynamic fee logic
 
 ---
 
 ## 🔒 What’s Not Public (Yet)
 
-- zk-SNARK/zk-STARK circuits and zero-knowledge proof system
-- AI training datasets and transformer weights
-- Consensus finality conditions and validator reward algorithm
-- Rust codebase and node implementation
+To protect patent-pending innovations, the following are intentionally withheld:
 
-These are under active R&D and will be shared with strategic development partners only.
+- zk-SNARK/STARK circuit designs  
+- AI controller structures and model parameters  
+- Reward tuning algorithms and scheduling policies  
+- Validator finalization logic and Rust node codebase
+
+These components are under active research and may be shared with strategic partners under NDA.
 
 ---
 
-## 📌 Disclaimer
-This document is shared for architectural understanding and community transparency. It is not a whitepaper and does not represent a final implementation.
+## ⚠️ Legal Notice
 
-For sponsorship or partnership inquiries, visit: [kaelit.com](https://kaelit.com)
+This project is protected under Korean patent applications and international (PCT) filings.  
+Any unauthorized use, disclosure, or misrepresentation of this content  
+will be treated as intellectual property infringement and subject to international legal action.
+
+---
+
+## 📬 Contact
+
+For partnership or licensing inquiries, visit: [https://kaelit.com](https://kaelit.com)
+
+For architecture documentation access under NDA, please contact us via verified channels.
