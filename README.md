@@ -19,9 +19,10 @@
 
 ---
 
-# KAELIT — The Korean Bitcoin
+### KAELIT — The First AI-Native Blockchain Protocol  
 
-A quantum-secure, AI-powered, zk-scalable blockchain — designed independently in Korea.
+A quantum-secure, zk-optimized, policy-driven infrastructure designed independently and protected under international patent.
+
 
 🔒 Post-Quantum Cryptography  
 🧠 AI Network Optimization  
