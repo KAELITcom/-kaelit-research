@@ -15,9 +15,9 @@ KAELIT is not another Ethereum fork.
 It’s a completely new architecture designed from scratch, featuring:
 
 - 🔐 Post-Quantum Cryptography: Kyber & Dilithium hybrid encryption  
-- 🧠 AI Optimization Modules: Gas prediction, anomaly detection, block tuning  
+- 🧠 AI Optimization Modules: Runtime orchestration and adaptive tuning (full logic under NDA)
 - 🧱 zk-Rollups + DAG Sharding: Layer-2 scalability meets structural innovation  
-- ⚙️ Modular Rust Architecture *(selectively unpublished)*  
+- ⚙️ Modular Rust Architecture (architecture is protected and not fully disclosed)
 - 🧬 20-Year Token Model: Fixed, no burn, no inflation
 
 We are not building hype.  
@@ -40,4 +40,4 @@ We publicly share the architecture, roadmap, and philosophical foundation — bu
 🔗 Website → [kaelit.com](https://kaelit.com)  
 💬 Discord → [discord.gg/6z4YjqVAyb](https://discord.gg/6z4YjqVAyb)
 
-> 🎯 *You’re not an investor. You’re a believer.*
+> You're not just funding innovation. You're helping define it.
