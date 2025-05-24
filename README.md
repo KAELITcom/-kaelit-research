@@ -1,4 +1,4 @@
-# KAELIT – Quantum-Secure, AI-Optimized Blockchain
+# KAELIT – Quantum-Secure, Adaptive-Optimized Blockchain
 
 > ⚠️ WARNING: This is the **only official GitHub repository of KAELIT**.  
 > KAELIT is not affiliated with any tokens, coins, or blockchain forks claiming similar names.  
@@ -25,7 +25,7 @@ A quantum-secure, zk-optimized, policy-driven infrastructure designed independen
 
 
 🔒 Post-Quantum Cryptography  
-🧠 AI Network Optimization  
+🧠 Intelligent Network Optimization 
 🧱 zk-Rollups + DAG  
 🗓️ 20-Year Fixed Token Model
 
@@ -53,7 +53,7 @@ combining Post-Quantum Cryptography (PQC), zk-Rollups, DAG-based sharding, and F
 
 ## ⚠️ Legal & Intellectual Property Notice
 
-This repository contains **patent-pending modular cryptographic and AI-coordinated architecture**,  
+This repository contains **patent-pending modular cryptographic and Policy-Orchestrated Architecture,  
 developed via **custom research conducted independently between 2022–2025**.
 
 All implementations and core optimization logic are strictly confidential.  
