@@ -5,7 +5,7 @@
 KAELIT wasn’t created in Silicon Valley.
 It was born in a small room in Korea, by a single founder — with no venture capital, no team, and no presale. Just conviction.
 
-While most blockchain projects begin with money, KAELIT began with belief — that the future of blockchain must be reimagined from the ground up: post-quantum secure, AI-optimized, and truly decentralized.
+While most blockchain projects begin with money, KAELIT began with belief — that the future of blockchain must be reimagined from the ground up: post-quantum secure, adaptively optimized, and truly decentralized.
 
 ---
 
@@ -15,7 +15,7 @@ KAELIT is not another Ethereum fork.
 It’s a completely new architecture designed from scratch, featuring:
 
 - 🔐 Post-Quantum Cryptography: Kyber & Dilithium hybrid encryption  
-- 🧠 AI Optimization Modules: Runtime orchestration and adaptive tuning (full logic under NDA)
+- 🧠 Adaptive Optimization Logic: Runtime coordination and policy-tuned scheduling 
 - 🧱 zk-Rollups + DAG Sharding: Layer-2 scalability meets structural innovation  
 - ⚙️ Modular Rust Architecture (architecture is protected and not fully disclosed)
 - 🧬 20-Year Token Model: Fixed, no burn, no inflation
