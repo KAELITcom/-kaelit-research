@@ -19,7 +19,7 @@
 
 ---
 
-### KAELIT — The First AI-Native Blockchain Protocol  
+### KAELIT — The First Policy-Orchestrated Blockchain Protocol 
 
 A quantum-secure, zk-optimized, policy-driven infrastructure designed independently and protected under international patent.
 
@@ -45,7 +45,7 @@ This repository provides a public, conceptual overview of the KAELIT blockchain 
 ## MVP Architecture Diagram
 
 The following diagram illustrates KAELIT's high-level modular architecture,  
-combining Post-Quantum Cryptography (PQC), zk-Rollups, DAG-based sharding, and Federated AI optimization.
+combining Post-Quantum Cryptography (PQC), zk-Rollups, DAG-based sharding, and Federated optimization logic.
 
 ![KAELIT Architecture](images/kaelit_architecture_diagram.png)
 
